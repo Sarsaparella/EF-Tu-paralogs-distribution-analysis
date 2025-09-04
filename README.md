@@ -1,5 +1,5 @@
 # EF-Tu-paralogs-distribution-analysis
-Repository with code for the "Sequence-specific trapping of EF-Tu/glycyl-tRNA complex on the ribosome by bottromycin" paper
+Repository with code for the "Sequence-specific trapping of EF-Tu/glycyl-tRNA complex on the ribosome by bottromycin" paper. Preprint can be found [here](https://www.biorxiv.org/content/10.1101/2025.08.17.670399v1.full)
 
 Requirements:
 - Python
