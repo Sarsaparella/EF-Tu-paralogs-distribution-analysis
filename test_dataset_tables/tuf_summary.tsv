@@ -1,0 +1,11 @@
+Organism Name	Phylum	Class	Refseq_accession	Assemly_accession	tuf_count
+Brucella melitensis bv. 1 str. 16M	Pseudomonadota	Alphaproteobacteria	NC_003317.1	GCF_000007125.1	2
+Caldanaerobacter subterraneus subsp. tengcongensis MB4	Bacillota	Clostridia	NC_003869.1	GCF_000007085.1	2
+Shigella flexneri 2a str. 301	Pseudomonadota	Gammaproteobacteria	NC_004337.2	GCF_000006925.2	2
+Escherichia coli str. K-12 substr. MG1655	Pseudomonadota	Gammaproteobacteria	NC_000913.3	GCF_000005845.2	2
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	Pseudomonadota	Gammaproteobacteria	NC_003197.2	GCF_000006945.2	2
+Pseudomonas aeruginosa PAO1	Pseudomonadota	Gammaproteobacteria	NC_002516.2	GCF_000006765.1	2
+Borreliella americana	Spirochaetota	Spirochaetia	CP124113.1	GCA_030445085.2	1
+Chlamydia muridarum str. Nigg	Chlamydiota	Chlamydiia	NC_002620.2	GCF_000006685.1	1
+Chlorobaculum tepidum TLS	Chlorobiota	Chlorobiia	NC_002932.3	GCF_000006985.1	1
+Rickettsia conorii str. Malish 7	Pseudomonadota	Alphaproteobacteria	NC_003103.1	GCF_000007025.1	1

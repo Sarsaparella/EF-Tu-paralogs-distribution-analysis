@@ -1,0 +1,17 @@
+Assemly_accession	Refseq_accession	start	end	strand	gene_id	gene_name	protein_id	locus_tag	product	pseudo	partial	Assembly Accession	Organism Taxonomic ID	Organism Name	Phylum	Class	Length
+GCA_030445085.2	CP124113.1	494670	495851	+	QIA01_02370	tuf	WKD00810.1	QIA01_02370	elongation factor Tu	--	--	GCA_030445085.2	478807	Borreliella americana	Spirochaetota	Spirochaetia	1181
+GCF_000005845.2	NC_000913.3	3470148	3471329	-	b3339	tufA	NP_417798.1	b3339	translation elongation factor Tu 1	--	--	GCF_000005845.2	511145	Escherichia coli str. K-12 substr. MG1655	Pseudomonadota	Gammaproteobacteria	1181
+GCF_000005845.2	NC_000913.3	4175944	4177125	+	b3980	tufB	NP_418407.1	b3980	translation elongation factor Tu 2	--	--	GCF_000005845.2	511145	Escherichia coli str. K-12 substr. MG1655	Pseudomonadota	Gammaproteobacteria	1181
+GCF_000006685.1	NC_002620.2	712354	713535	-	TC_RS03020	tuf	WP_010904371.1	TC_RS03020	elongation factor Tu	--	--	GCF_000006685.1	243161	Chlamydia muridarum str. Nigg	Chlamydiota	Chlamydiia	1181
+GCF_000006765.1	NC_002516.2	4767814	4769004	-	PA4265	tufA	NP_252955.1	PA4265	elongation factor Tu	--	--	GCF_000006765.1	208964	Pseudomonas aeruginosa PAO1	Pseudomonadota	Gammaproteobacteria	1190
+GCF_000006765.1	NC_002516.2	4784319	4785509	-	PA4277	tufB	NP_252967.1	PA4277	elongation factor Tu	--	--	GCF_000006765.1	208964	Pseudomonas aeruginosa PAO1	Pseudomonadota	Gammaproteobacteria	1190
+GCF_000006925.2	NC_004337.2	3439425	3440606	-	SF3357	tuf	NP_709113.2	SF3357	elongation factor Tu	--	--	GCF_000006925.2	198214	Shigella flexneri 2a str. 301	Pseudomonadota	Gammaproteobacteria	1181
+GCF_000006925.2	NC_004337.2	4195696	4196877	+	SF4053	tuf	NP_709775.1	SF4053	elongation factor Tu	--	--	GCF_000006925.2	198214	Shigella flexneri 2a str. 301	Pseudomonadota	Gammaproteobacteria	1181
+GCF_000006945.2	NC_003197.2	3598312	3599493	-	STM3445	tufA	NP_462349.1	STM3445	protein chain elongation factor EF-Tu	--	--	GCF_000006945.2	99287	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	Pseudomonadota	Gammaproteobacteria	1181
+GCF_000006945.2	NC_003197.2	4360616	4361797	+	STM4146	tufB	NP_463015.1	STM4146	protein chain elongation factor EF-Tu	--	--	GCF_000006945.2	99287	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	Pseudomonadota	Gammaproteobacteria	1181
+GCF_000006985.1	NC_002932.3	2064827	2066005	-	AYT24_RS09945	tuf	WP_010933844.1	AYT24_RS09945	elongation factor Tu	--	--	GCF_000006985.1	194439	Chlorobaculum tepidum TLS	Chlorobiota	Chlorobiia	1178
+GCF_000007025.1	NC_003103.1	934454	935635	-	RC_RS05040	tuf	WP_010977589.1	RC_RS05040	elongation factor Tu	--	--	GCF_000007025.1	272944	Rickettsia conorii str. Malish 7	Pseudomonadota	Alphaproteobacteria	1181
+GCF_000007085.1	NC_003869.1	2176300	2177499	-	TTE_RS10955	tuf	WP_011026340.1	TTE_RS10955	elongation factor Tu	--	--	GCF_000007085.1	273068	Caldanaerobacter subterraneus subsp. tengcongensis MB4	Bacillota	Clostridia	1199
+GCF_000007085.1	NC_003869.1	2191779	2192978	-	TTE_RS11025	tuf	WP_011026354.1	TTE_RS11025	elongation factor Tu	--	--	GCF_000007085.1	273068	Caldanaerobacter subterraneus subsp. tengcongensis MB4	Bacillota	Clostridia	1199
+GCF_000007125.1	NC_003317.1	768090	769262	+	BME_RS03700	tuf	WP_002970090.1	BME_RS03700	elongation factor Tu	--	--	GCF_000007125.1	224914	Brucella melitensis bv. 1 str. 16M	Pseudomonadota	Alphaproteobacteria	1172
+GCF_000007125.1	NC_003317.1	786042	787214	+	BME_RS03770	tuf	WP_002970090.1	BME_RS03770	elongation factor Tu	--	--	GCF_000007125.1	224914	Brucella melitensis bv. 1 str. 16M	Pseudomonadota	Alphaproteobacteria	1172
